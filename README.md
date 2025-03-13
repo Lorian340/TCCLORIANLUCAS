@@ -1,0 +1,1 @@
+Nosso projeto começou com uma base feita por um site de templates, e ai começamos a mudar ele para deixar do jeito que queremos para nossa loja, no momento ainda falta colocar o carousel do bootstrap e as imagens das camisas que venderemos.
